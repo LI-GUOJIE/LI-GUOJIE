@@ -9,10 +9,6 @@
 
 <br/>
 
-```
-Go · C++ · AWS · Blockchain   |   10+ Years   |   Yokohama, Japan
-```
-
 Backend engineer with a decade of delivery across **online gaming**, **retail AI**, **blockchain**, and **enterprise IAM**.
 I specialize in entering unfamiliar domains fast and shipping production-grade, highly scalable systems from scratch.
 
@@ -261,7 +257,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 <br/>
 
 <div align="center">
-<sub><i>Always eager to tackle hard problems and explore new technologies. Open to global opportunities.</i></sub>
+<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in Australia, the Netherlands, and Canada.</i></sub>
 <br/><br/>
 
 <picture>
