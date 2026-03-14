@@ -234,7 +234,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 ## 🌍 Languages
 
-🇨🇳 **Chinese** — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇯🇵 **Japanese** — JLPT N1 (5+ years in Japan) &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 **English** — CEFR B1, strong technical reading
+🇨🇳 **Chinese** — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇯🇵 **Japanese** — JLPT N1 (5+ years in Japan) &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 **English** — Approx. CEFR B1, strong technical reading
 
 <br/>
 
