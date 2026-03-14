@@ -116,7 +116,7 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
 ## 💼 Experience
 
 <details>
-<summary><b>System Engineer</b> — Kyoka Co., Ltd., Yokohama &nbsp;·&nbsp; <code>Jul 2024 – Present</code></summary>
+<summary><b>Systems Engineer</b> — Kyoka Co., Ltd., Yokohama &nbsp;·&nbsp; <code>Jul 2024 – Present</code></summary>
 <br/>
 
 **Shimizu Corp / Saviynt IAM** &nbsp;`Sep 2025 – Present`
