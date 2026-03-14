@@ -256,6 +256,8 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 [![Email](https://img.shields.io/badge/imliguojie@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imliguojie@gmail.com)
 &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-guojie-li)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/LI--GUOJIE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LI-GUOJIE)
 &nbsp;
 [![Location](https://img.shields.io/badge/Yokohama,_Japan-0066ff?style=flat-square&logo=googlemaps&logoColor=white)](#)
