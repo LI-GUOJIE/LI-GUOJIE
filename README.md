@@ -116,7 +116,7 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
 ## 💼 Experience
 
 <details>
-<summary><b>Backend Engineer</b> — Kyouka Co., Ltd., Yokohama &nbsp;·&nbsp; <code>Jul 2024 – Present</code></summary>
+<summary><b>Backend Engineer</b> — Kyoka Co., Ltd., Yokohama &nbsp;·&nbsp; <code>Jul 2024 – Present</code></summary>
 <br/>
 
 **Shimizu Corp / Saviynt IAM** &nbsp;`Sep 2025 – Present`
@@ -136,7 +136,7 @@ Continued development of the Python data pipelines powering a nationwide AI supp
 </details>
 
 <details>
-<summary><b>Lead Game Server Engineer</b> — Hangzhou Qingyu Network Technology &nbsp;·&nbsp; <code>Jul 2023 – Feb 2024</code></summary>
+<summary><b>Lead Game Server Engineer</b> — Hangzhou Qingyu Technology Co., Ltd. &nbsp;·&nbsp; <code>Jul 2023 – Feb 2024</code></summary>
 <br/>
 
 **CUCKOO Blockchain Game Platform**
@@ -156,7 +156,7 @@ Client-computed / server-validated combat: Lua server issues random seeds → cl
 </details>
 
 <details>
-<summary><b>Lead Game Server Engineer</b> — Hangzhou Quweiyou Network Technology &nbsp;·&nbsp; <code>Sep 2021 – Apr 2023</code></summary>
+<summary><b>Lead Game Server Engineer</b> — Hangzhou Quweiyou Network Technology Co., Ltd. &nbsp;·&nbsp; <code>Sep 2021 – Apr 2023</code></summary>
 <br/>
 
 **HeHe Restaurant (Casual Online Game)**
@@ -226,7 +226,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 - 🎓 **B.Eng.** Electronic Information Technology & Instrumentation — Hangzhou Dianzi University &nbsp;`2009–2013`
 - 📜 Coursera Machine Learning & Deep Learning — [certificate ↗](https://coursera.org/account/accomplishments/certificate/CAT492NCEP52)
 - 🏆 Outstanding Employee Award — 7K7K &nbsp;`Jan 2017`
-- 🥈 2nd Prize, Zhejiang Provincial University Physics Competition &nbsp;`2011`
+- 🥈 2nd Prize, Zhejiang Provincial University Physics Competition &nbsp;`Jan 2011`
 
 <br/>
 
