@@ -34,6 +34,57 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
 
 ---
 
+## 🗺️ Architecture Portfolio
+
+> System designs reflecting real production challenges I've solved.
+
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="480">
+      <img src="./assets/Blockchain.png" width="440" alt="Blockchain Game Platform — Hybrid Settlement Architecture"/>
+      <br/><br/>
+      <b>Blockchain Game Platform — Hybrid Settlement Architecture</b>
+      <br/>
+      <sub>Decoupled Game / Platform services · Custodial wallet management · On-chain NFT settlement &nbsp;|&nbsp; Go · Ethereum</sub>
+      <br/>
+    </td>
+    <td align="center" width="480">
+      <img src="./assets/10000.png" width="440" alt="High-Concurrency Multiplayer Server — Load-Balanced Multi-Node Design"/>
+      <br/><br/>
+      <b>High-Concurrency Multiplayer Server Design</b>
+      <br/>
+      <sub>Dynamic load balancing · Horizontally scalable game nodes · Anti-cheat validation · Cross-server coordination</sub>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="480">
+      <img src="./assets/CasualGame.png" width="440" alt="Horizontally Scalable Casual Game Server — 4-Tier Architecture"/>
+      <br/><br/>
+      <b>Horizontally Scalable Casual Game Server</b>
+      <br/>
+      <sub>4-Tier Architecture: Gate · Logic · Global · Platform &nbsp;|&nbsp; 50K concurrent users / node &nbsp;|&nbsp; Go · Redis</sub>
+    </td>
+    <td align="center" width="480">
+      <img src="./assets/MMORPG.png" width="440" alt="MMORPG Distributed Scene-Server Architecture"/>
+      <br/><br/>
+      <b>MMORPG Distributed Scene-Server Architecture</b>
+      <br/>
+      <sub>Multi-zone scene servers · Cross-server Global Service (IPC) · Per-zone DB sharding &nbsp;|&nbsp; C++ · MySQL</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -169,63 +220,6 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 **zinx — Core Contributor** &nbsp;·&nbsp; [PR #231](https://github.com/aceld/zinx/pull/231): Rewrote the load balancer for high-concurrency game scenarios, achieving fair task distribution under load. &nbsp;`★ 7.7k` &nbsp;`1.1k forks`
 
 **AIGC-RPG-DEMO** &nbsp;·&nbsp; Text-based RPG powered by generative AI, built to run on Google Colab. An experiment in LLM-driven game narrative.
-
-<br/>
-
----
-
-## 🗺️ Architecture Portfolio
-
-> Real system designs from production. Click any diagram to open the full interactive version.
-
-<br/>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="480">
-      <a href="https://htmlpreview.github.io/?https://github.com/LI-GUOJIE/LI-GUOJIE/blob/main/assets/3SystemDesign_Portfolio.html">
-        <img src="./assets/Blockchain.png" width="440" alt="Blockchain Game Platform — Hybrid Settlement Architecture"/>
-      </a>
-      <br/><br/>
-      <b>Blockchain Game Platform — Hybrid Settlement Architecture</b>
-      <br/>
-      <sub>Decoupled Game / Platform services · Custodial wallet management · On-chain NFT settlement &nbsp;|&nbsp; Go · Ethereum</sub>
-      <br/>
-      <sub><a href="https://htmlpreview.github.io/?https://github.com/LI-GUOJIE/LI-GUOJIE/blob/main/assets/3SystemDesign_Portfolio.html">↗ View interactive diagram</a></sub>
-    </td>
-    <td align="center" width="480">
-      <a href="https://htmlpreview.github.io/?https://github.com/LI-GUOJIE/LI-GUOJIE/blob/main/assets/10000_people_server_design_v4.html">
-        <img src="./assets/10000.png" width="440" alt="High-Concurrency Multiplayer Server — Load-Balanced Multi-Node Design"/>
-      </a>
-      <br/><br/>
-      <b>High-Concurrency Multiplayer Server Design</b>
-      <br/>
-      <sub>Dynamic load balancing · Horizontally scalable game nodes · Anti-cheat validation · Cross-server coordination</sub>
-      <br/>
-      <sub><a href="https://htmlpreview.github.io/?https://github.com/LI-GUOJIE/LI-GUOJIE/blob/main/assets/10000_people_server_design_v4.html">↗ View interactive diagram</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="480">
-      <img src="./assets/CasualGame.png" width="440" alt="Horizontally Scalable Casual Game Server — 4-Tier Architecture"/>
-      <br/><br/>
-      <b>Horizontally Scalable Casual Game Server</b>
-      <br/>
-      <sub>4-Tier Architecture: Gate · Logic · Global · Platform &nbsp;|&nbsp; 50K concurrent users / node &nbsp;|&nbsp; Go · Redis</sub>
-    </td>
-    <td align="center" width="480">
-      <img src="./assets/MMORPG.png" width="440" alt="MMORPG Distributed Scene-Server Architecture"/>
-      <br/><br/>
-      <b>MMORPG Distributed Scene-Server Architecture</b>
-      <br/>
-      <sub>Multi-zone scene servers · Cross-server Global Service (IPC) · Per-zone DB sharding &nbsp;|&nbsp; C++ · MySQL</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <br/>
 
