@@ -213,7 +213,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 </div>
 
-**zinx — Core Contributor** &nbsp;·&nbsp; [PR #231](https://github.com/aceld/zinx/pull/231): Rewrote the load balancer for high-concurrency game scenarios, achieving fair task distribution under load. &nbsp;`★ 7.7k` &nbsp;`1.1k forks`
+**zinx — Core Contributor** &nbsp;·&nbsp; [PR #231](https://github.com/aceld/zinx/pull/231): Rewrote the load balancer for high-concurrency game scenarios, achieving fair task distribution under load. &nbsp;`★ 7.7k` &nbsp;`1.3k forks`
 
 **AIGC-RPG-DEMO** &nbsp;·&nbsp; Text-based RPG powered by generative AI, built to run on Google Colab. An experiment in LLM-driven game narrative.
 
