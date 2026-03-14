@@ -168,7 +168,7 @@ Designed a 4-layer server architecture: **Gate** (load balancing, DDoS blacklist
 </details>
 
 <details>
-<summary><b>IT Engineer</b> — WISDOM JAPAN, Yokohama &nbsp;·&nbsp; <code>Mar 2018 – Jun 2021</code></summary>
+<summary><b>IT Engineer</b> — WISDOM JAPAN, Yokohama &nbsp;·&nbsp; <code>Jul 2018 – Jun 2021</code></summary>
 <br/>
 
 **7-Eleven Japan AI Ordering System**
