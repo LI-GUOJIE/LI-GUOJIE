@@ -221,9 +221,9 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 <div align="center">
 
-[![zinx](https://github-readme-stats.vercel.app/api/pin/?username=aceld&repo=zinx&theme=default&border_color=e5e5e5&title_color=0066ff&icon_color=0066ff)](https://github.com/aceld/zinx)
+[![zinx](https://github-stats-extended.vercel.app/api/pin/?username=aceld&repo=zinx&theme=default&border_color=e5e5e5&title_color=0066ff&icon_color=0066ff)](https://github.com/aceld/zinx)
 &nbsp;&nbsp;
-[![AIGC-RPG-DEMO](https://github-readme-stats.vercel.app/api/pin/?username=LI-GUOJIE&repo=AIGC-RPG-DEMO&theme=default&border_color=e5e5e5&title_color=0066ff&icon_color=0066ff)](https://github.com/LI-GUOJIE/AIGC-RPG-DEMO)
+[![AIGC-RPG-DEMO](https://github-stats-extended.vercel.app/api/pin/?username=LI-GUOJIE&repo=AIGC-RPG-DEMO&theme=default&border_color=e5e5e5&title_color=0066ff&icon_color=0066ff)](https://github.com/LI-GUOJIE/AIGC-RPG-DEMO)
 
 </div>
 
