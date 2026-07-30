@@ -234,7 +234,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 ## 🌍 Languages
 
-🇨🇳 **Chinese** — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇯🇵 **Japanese** — JLPT N1 (5+ years in Japan) &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 **English** — Approx. CEFR B1, strong technical reading
+🇨🇳 **Chinese** — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇯🇵 **Japanese** — JLPT N1 (5+ years in Japan) &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 **English** — Above CEFR B1, strong technical reading
 
 <br/>
 
@@ -257,7 +257,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 <br/>
 
 <div align="center">
-<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in Australia, the Netherlands, and Canada.</i></sub>
+<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in New Zealand and the Netherland.</i></sub>
 <br/><br/>
 
 <picture>
