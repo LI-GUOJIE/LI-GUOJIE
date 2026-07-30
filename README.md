@@ -188,6 +188,20 @@ Self-taught React from scratch and delivered the majority of the codebase in 3 m
 </details>
 
 <details>
+<summary><b>Career Break — Global Travel</b> — 12 countries, 5 continents &nbsp;·&nbsp; <code>Jul 2017 – Jun 2018</code></summary>
+<br/>
+
+**A Year Around the World**
+
+Travelled through New Zealand, Chile, the United States, Iceland, Norway, Greece, Bulgaria, the Czech Republic, France, Spain, Morocco, and Italy.
+
+Self-studied Japanese along the way — which led directly to relocating to Japan in 2018.
+
+`Japanese (self-study)`
+
+</details>
+
+<details>
 <summary><b>C++ Game Server Engineer</b> — 7K7K, Beijing &nbsp;·&nbsp; <code>Jul 2014 – Jun 2017</code></summary>
 <br/>
 
@@ -234,7 +248,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 ## 🌍 Languages
 
-🇨🇳 **Chinese** — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇯🇵 **Japanese** — JLPT N1 (5+ years in Japan) &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 **English** — Above CEFR B1, strong technical reading
+🇨🇳 **Chinese** — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇯🇵 **Japanese** — JLPT N1 (5+ years in Japan) &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 **English** — Approx. CEFR B1+, strong reading
 
 <br/>
 
@@ -257,7 +271,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 <br/>
 
 <div align="center">
-<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in New Zealand and the Netherland.</i></sub>
+<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in New Zealand and the Netherlands.</i></sub>
 <br/><br/>
 
 <picture>
