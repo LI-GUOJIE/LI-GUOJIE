@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=140&section=header&text=Eric%20(Guojie)%20Li&fontSize=38&fontColor=ffffff&fontAlignY=60&desc=Senior%20Backend%20Engineer%20%E2%80%94%20Go%20%C2%B7%20C%2B%2B%20%C2%B7%20AWS%20%C2%B7%20Blockchain&descAlignY=80&descSize=13&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=140&section=header&text=Eric%20(Guojie)%20Li&fontSize=38&fontColor=000000&fontAlignY=60&desc=Senior%20Backend%20Engineer%20%E2%80%94%20Go%20%C2%B7%20C%2B%2B%20%C2%B7%20AWS%20%C2%B7%20Blockchain&descAlignY=80&descSize=13&animation=fadeIn" alt="Eric (Guojie) Li — Senior Backend Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a1628&height=140&section=header&text=Eric%20(Guojie)%20Li&fontSize=38&fontColor=ffffff&fontAlignY=60&desc=Senior%20Backend%20Engineer%20%E2%80%94%20Go%20%C2%B7%20C%2B%2B%20%C2%B7%20AWS%20%C2%B7%20Blockchain&descAlignY=80&descSize=13&animation=fadeIn" alt="Eric (Guojie) Li — Senior Backend Engineer" />
 </picture>
 
 </div>
@@ -32,7 +32,7 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
 
 ## 🗺️ Architecture Portfolio
 
-> System designs reflecting real production challenges I've solved.
+> System designs from production work, plus one load-tested prototype.
 
 <br/>
 
@@ -49,11 +49,11 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
       <br/>
     </td>
     <td align="center" width="480">
-      <img src="./assets/10000.png" width="440" alt="High-Concurrency Multiplayer Server — Load-Balanced Multi-Node Design"/>
+      <img src="./assets/10000.png" width="440" alt="10,000 Players on One Screen — Lockstep Sync with Redis Tree Broadcast"/>
       <br/><br/>
-      <b>High-Concurrency Multiplayer Server Design</b>
+      <b>10,000 Players on One Screen — Prototype</b>
       <br/>
-      <sub>Dynamic load balancing · Horizontally scalable game nodes · Anti-cheat validation · Cross-server coordination</sub>
+      <sub>Lockstep frame sync · Redis tree broadcast: root → leaf nodes; clients subscribe to a leaf after token auth &nbsp;|&nbsp; Design + working demo, load-tested &nbsp;|&nbsp; Go (zinx) · Redis</sub>
       <br/>
     </td>
   </tr>
@@ -63,7 +63,7 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
       <br/><br/>
       <b>Horizontally Scalable Casual Game Server</b>
       <br/>
-      <sub>4-Tier Architecture: Gate · Logic · Global · Platform &nbsp;|&nbsp; 50K concurrent users / node &nbsp;|&nbsp; Go · Redis</sub>
+      <sub>4-Tier Architecture: Gate · Game · Global · Platform &nbsp;|&nbsp; 50K concurrent users / node &nbsp;|&nbsp; Go · Redis</sub>
     </td>
     <td align="center" width="480">
       <img src="./assets/MMORPG.png" width="440" alt="MMORPG Distributed Scene-Server Architecture"/>
@@ -83,12 +83,13 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Frameworks**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -107,7 +108,6 @@ I specialize in entering unfamiliar domains fast and shipping production-grade, 
 **Domains**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Saviynt](https://img.shields.io/badge/IAM_·_Saviynt-0066ff?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 <br/>
 
@@ -161,7 +161,7 @@ Client-computed / server-validated combat: Lua server issues random seeds → cl
 
 **HeHe Restaurant (Casual Online Game)**
 
-Designed a 4-layer server architecture: **Gate** (load balancing, DDoS blacklisting) → **Game** (horizontally scalable logic) → **Global** (cross-server auth, leaderboards, GM relay) → **Platform** (SDK docking, ops tools). Stress-tested to **50K concurrent users / node**, **10M registered players**. Built a Redis storage layer that meaningfully reduced login latency.
+Designed a 4-layer server architecture: **Gate** (load balancing, DDoS blacklisting) → **Game** (horizontally scalable logic) → **Global** (cross-server auth, leaderboards, GM relay) → **Platform** (SDK docking, ops tools). Load-tested with simulated player behaviour to **50K concurrent users / node** and **10M registered players**; the live game later reached both figures in production. Built a Redis storage layer that meaningfully reduced login latency.
 
 `Go` `Redis` `Bash`
 
@@ -227,7 +227,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 </div>
 
-**zinx — Core Contributor** &nbsp;·&nbsp; [PR #231](https://github.com/aceld/zinx/pull/231): Rewrote the load balancer for high-concurrency game scenarios, achieving fair task distribution under load. &nbsp;`★ 7.7k` &nbsp;`1.3k forks`
+**zinx — Contributor** &nbsp;·&nbsp; [PR #231](https://github.com/aceld/zinx/pull/231) (merged): Added a connection-bound worker allocation mode to the message dispatcher, so connections sharing a worker no longer block each other under high concurrency. &nbsp;`★ 7.7k` &nbsp;`1.3k forks`
 
 **AIGC-RPG-DEMO** &nbsp;·&nbsp; Text-based RPG powered by generative AI, built to run on Google Colab. An experiment in LLM-driven game narrative.
 
@@ -271,7 +271,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 <br/>
 
 <div align="center">
-<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in New Zealand and the Netherlands and Japan.</i></sub>
+<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in New Zealand, the Netherlands, and Japan.</i></sub>
 <br/><br/>
 
 <picture>
