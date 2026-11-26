@@ -271,7 +271,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 <br/>
 
 <div align="center">
-<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in New Zealand and the Netherlands.</i></sub>
+<sub><i>Always eager to tackle hard problems and explore new technologies. Open to opportunities in New Zealand and the Netherlands and Japan.</i></sub>
 <br/><br/>
 
 <picture>
