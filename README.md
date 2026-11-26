@@ -161,7 +161,7 @@ Client-computed / server-validated combat: Lua server issues random seeds → cl
 
 **HeHe Restaurant (Casual Online Game)**
 
-Designed a 4-layer server architecture: **Gate** (load balancing, DDoS blacklisting) → **Game** (horizontally scalable logic) → **Global** (cross-server auth, leaderboards, GM relay) → **Platform** (SDK docking, ops tools). Load-tested with simulated player behaviour to **50K concurrent users / node** and **10M registered players**; the live game later reached both figures in production. Built a Redis storage layer that meaningfully reduced login latency.
+Designed a 4-layer server architecture: **Gate** (load balancing, DDoS blacklisting) → **Game** (horizontally scalable logic) → **Global** (cross-server auth, leaderboards, GM relay) → **Platform** (SDK docking, ops tools). Load-tested with real gameplay traffic to **50K concurrent users / node** and **10M registered players**; the live game later reached both figures in production. Built a Redis storage layer that meaningfully reduced login latency.
 
 `Go` `Redis` `Bash`
 
@@ -227,7 +227,7 @@ One of three engineers who built this MMORPG from the ground up — **¥20M aver
 
 </div>
 
-**zinx — Contributor** &nbsp;·&nbsp; [PR #231](https://github.com/aceld/zinx/pull/231) (merged): Added a connection-bound worker allocation mode to the message dispatcher, so connections sharing a worker no longer block each other under high concurrency. &nbsp;`★ 7.7k` &nbsp;`1.3k forks`
+**zinx — Contributor** &nbsp;·&nbsp; [PR #231](https://github.com/aceld/zinx/pull/231) (merged): Added a connection-bound worker allocation mode to the message dispatcher, so connections sharing a worker no longer block each other under high concurrency. &nbsp;`★ 7.8k` &nbsp;`1.3k forks`
 
 **AIGC-RPG-DEMO** &nbsp;·&nbsp; Text-based RPG powered by generative AI, built to run on Google Colab. An experiment in LLM-driven game narrative.
 
